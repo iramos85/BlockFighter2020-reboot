@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: c9844676a3ad4c44a80e5ba1de7335c6
+guid: 401d979e92428b74eac1ce43e5d35988
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4051965002421520077
-    second: PC Computer - DX-Ball - Ball Paddles & Wall_0
+      213: -5075917366333556609
+    second: Paddle 1_0
   - first:
-      213: 8943868504255682517
-    second: PC Computer - DX-Ball - Ball Paddles & Wall_1
+      213: -3204621620978823195
+    second: Paddle 1_1
   - first:
-      213: -198058807620395124
-    second: PC Computer - DX-Ball - Ball Paddles & Wall_2
+      213: -4641751007708178052
+    second: Paddle 1_2
   - first:
-      213: -436491683345375761
-    second: PC Computer - DX-Ball - Ball Paddles & Wall_3
+      213: 4164692485121685246
+    second: Paddle 1_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -99,54 +99,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PC Computer - DX-Ball - Ball Paddles & Wall_0
+      name: Paddle 1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 88
-        width: 74
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 339b95c6c4784c7c0800000000000000
-      internalID: -4051965002421520077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - DX-Ball - Ball Paddles & Wall_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 29
-        width: 74
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 30}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d7d6f994010f1c70800000000000000
-      internalID: 8943868504255682517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - DX-Ball - Ball Paddles & Wall_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 59
-        width: 74
+        y: 90
+        width: 73
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -155,19 +113,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8f1627509a504df0800000000000000
-      internalID: -198058807620395124
+      spriteID: f78b3767c08be89b0800000000000000
+      internalID: -5075917366333556609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC Computer - DX-Ball - Ball Paddles & Wall_3
+      name: Paddle 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef45025d95e683d0800000000000000
+      internalID: -3204621620978823195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791eb13d00359fb0800000000000000
+      internalID: -4641751007708178052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddle 1_3
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 74
+        width: 73
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -176,8 +176,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fed59ca602541f9f0800000000000000
-      internalID: -436491683345375761
+      spriteID: ef6ba6eefb5fbc930800000000000000
+      internalID: 4164692485121685246
       vertices: []
       indices: 
       edges: []
