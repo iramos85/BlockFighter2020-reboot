@@ -1,2 +1,2 @@
 # BlockFighter2020-reboot
-A reboot of the classic game, BlockFighter 2020
+A reboot of the classic game, Super BlockFighter 2020
