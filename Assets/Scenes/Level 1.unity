@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 99625204}
   - component: {fileID: 99625203}
   - component: {fileID: 99625206}
+  - component: {fileID: 99625207}
   m_Layer: 0
   m_Name: Paddle
   m_TagString: Untagged
@@ -218,7 +219,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 99625202}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.21, y: 0.768, z: 0}
+  m_LocalPosition: {x: 8, y: 0.75, z: 0}
   m_LocalScale: {x: 3.5820394, y: 3.6614256, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -250,6 +251,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.73, y: 0.12739255}
   m_EdgeRadius: 0
+--- !u!114 &99625207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 99625202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c389dd7b8509e4a9008a898d7c1fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  screenWidthInUnits: 16
 --- !u!1 &232687668
 GameObject:
   m_ObjectHideFlags: 0
@@ -280,6 +294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67c389dd7b8509e4a9008a898d7c1fd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  screenWidthInUnits: 16
 --- !u!61 &232687670
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1178,7 +1193,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &1634844207
 BoxCollider2D:
   m_ObjectHideFlags: 0
