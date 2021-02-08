@@ -14,6 +14,7 @@ public class Ball : MonoBehaviour
     //state
     Vector2 paddleToBallVector;
     bool hasStarted = false;
+    //bool bounceAction = false;
 
     // Start is called before the first frame update
     void Start()
@@ -29,6 +30,11 @@ public class Ball : MonoBehaviour
             LockBallToPaddle();
             LaunchOnMouseClick();
         }
+      /*  if (bounceAction == true)
+        {
+            LaunchBallAction();
+        }
+      */
     }
 
     private void LaunchOnMouseClick()
@@ -45,4 +51,21 @@ public class Ball : MonoBehaviour
         Vector2 paddlePos = paddle1.transform.position;
         transform.position = paddlePos + paddleToBallVector;
     }
+
+ /*   private void OnTriggerEnter2D(Collider2D collision)
+    {
+        bounceAction = true;
+        Debug.Log("collision");   
+    }
+
+    private void LaunchBallAction()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 15f);
+            Debug.Log("bounce");
+        }
+    }
+ */
+   
 }
