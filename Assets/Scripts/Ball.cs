@@ -15,11 +15,13 @@ public class Ball : MonoBehaviour
     Vector2 paddleToBallVector;
     bool hasStarted = false;
     //bool bounceAction = false;
+    AudioSource myAudioSource;
 
     // Start is called before the first frame update
     void Start()
     {
         paddleToBallVector = transform.position - paddle1.transform.position;
+        myAudioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -52,20 +54,28 @@ public class Ball : MonoBehaviour
         transform.position = paddlePos + paddleToBallVector;
     }
 
- /*   private void OnTriggerEnter2D(Collider2D collision)
-    {
-        bounceAction = true;
-        Debug.Log("collision");   
-    }
+    /*   private void OnTriggerEnter2D(Collider2D collision)
+       {
+           bounceAction = true;
+           Debug.Log("collision");   
+       }
 
-    private void LaunchBallAction()
+       private void LaunchBallAction()
+       {
+           if (Input.GetMouseButtonDown(0))
+           {
+               GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 15f);
+               Debug.Log("bounce");
+           }
+       }
+    */
+
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (Input.GetMouseButtonDown(0))
+        if (hasStarted)
         {
-            GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 15f);
-            Debug.Log("bounce");
+            myAudioSource.Play();
         }
     }
- */
-   
+
 }
