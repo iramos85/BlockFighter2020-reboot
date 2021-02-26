@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2909830592308985601}
   m_Layer: 0
   m_Name: BlockNES
-  m_TagString: Untagged
+  m_TagString: Breakable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -72,9 +72,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 3896014740117721221, guid: c26c774da8695934db3a5d2db3d05d56,
+  m_Sprite: {fileID: 3896014740117721221, guid: 4920787d5af0aac42ab3356f193fc7a6,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9433962, g: 0.9231909, b: 0.8810965, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -123,3 +123,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 553da1054c9e41646af330027dd99492, type: 3}
+  blockExplodeVFX: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+  maxHits: 3
+  hitSprites:
+  - {fileID: 6133640445340239385, guid: 4920787d5af0aac42ab3356f193fc7a6, type: 3}
+  - {fileID: 361993546286412765, guid: 4920787d5af0aac42ab3356f193fc7a6, type: 3}
+  timesHit: 0

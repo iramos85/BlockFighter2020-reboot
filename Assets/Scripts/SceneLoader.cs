@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
+using System;
 
 public class SceneLoader : MonoBehaviour
 {
@@ -14,7 +16,9 @@ public class SceneLoader : MonoBehaviour
     public void LoadStartScene()
     {
         SceneManager.LoadScene(0);
+        FindObjectOfType<GameSession>().ResetGame();
     }
+
 
     public void QuitGame()
     {
