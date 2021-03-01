@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: f3de75f5025ae294cb41ec37a175028c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2856853832465966687
+    second: NES - Street Fighter 2010 - Cutscene Images_0
+  - first:
+      213: -8872477409056922053
+    second: NES - Street Fighter 2010 - Cutscene Images_1
+  - first:
+      213: 4172693166253696334
+    second: NES - Street Fighter 2010 - Cutscene Images_2
+  - first:
+      213: 6830975116844220381
+    second: NES - Street Fighter 2010 - Cutscene Images_3
+  - first:
+      213: 6852158509999837905
+    second: NES - Street Fighter 2010 - Cutscene Images_4
+  - first:
+      213: -4962941895987022515
+    second: NES - Street Fighter 2010 - Cutscene Images_5
+  - first:
+      213: 5737461291970461091
+    second: NES - Street Fighter 2010 - Cutscene Images_6
+  - first:
+      213: 2322282108982869832
+    second: NES - Street Fighter 2010 - Cutscene Images_7
+  - first:
+      213: 8333905600427461386
+    second: NES - Street Fighter 2010 - Cutscene Images_8
+  - first:
+      213: 4877709253463556277
+    second: NES - Street Fighter 2010 - Cutscene Images_9
+  - first:
+      213: -2678474525251233408
+    second: NES - Street Fighter 2010 - Cutscene Images_10
+  - first:
+      213: 5661311815264228627
+    second: NES - Street Fighter 2010 - Cutscene Images_11
+  - first:
+      213: 1503569900582224035
+    second: NES - Street Fighter 2010 - Cutscene Images_12
+  - first:
+      213: -7820477437210047716
+    second: NES - Street Fighter 2010 - Cutscene Images_13
+  - first:
+      213: -6956330530157390711
+    second: NES - Street Fighter 2010 - Cutscene Images_14
+  - first:
+      213: 1041261883237050027
+    second: NES - Street Fighter 2010 - Cutscene Images_15
+  - first:
+      213: 4129398538128735083
+    second: NES - Street Fighter 2010 - Cutscene Images_16
+  - first:
+      213: -6865757996722229424
+    second: NES - Street Fighter 2010 - Cutscene Images_17
+  - first:
+      213: 2800801182864963950
+    second: NES - Street Fighter 2010 - Cutscene Images_18
+  - first:
+      213: 5310213628766718205
+    second: NES - Street Fighter 2010 - Cutscene Images_19
+  - first:
+      213: -8816762637527030227
+    second: NES - Street Fighter 2010 - Cutscene Images_20
+  - first:
+      213: -1095811325903606304
+    second: NES - Street Fighter 2010 - Cutscene Images_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a917ac539a6a58d0800000000000000
+      internalID: -2856853832465966687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 712
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36eb7b0ec0aed480800000000000000
+      internalID: -8872477409056922053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45604ba35268e930800000000000000
+      internalID: 4172693166253696334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf380d3daf7cce50800000000000000
+      internalID: 6830975116844220381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 640
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2d53d4cd1c71f50800000000000000
+      internalID: 6852158509999837905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 640
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d453ac0f3a6102bb0800000000000000
+      internalID: -4962941895987022515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adf37c85ae8f9f40800000000000000
+      internalID: 5737461291970461091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 600
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f3b2e26476a3020800000000000000
+      internalID: 2322282108982869832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 560
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0e191dfaf7a370800000000000000
+      internalID: 8333905600427461386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0c45a09ba11b340800000000000000
+      internalID: 4877709253463556277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08997764c9524dad0800000000000000
+      internalID: -2678474525251233408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315db8fd915019e40800000000000000
+      internalID: 5661311815264228627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a04c2bbbd0cdd410800000000000000
+      internalID: 1503569900582224035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b432d9435187390800000000000000
+      internalID: -7820477437210047716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 357
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98493c13d36267f90800000000000000
+      internalID: -6956330530157390711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6af7c7a2e437e00800000000000000
+      internalID: 1041261883237050027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 357
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b3e2987129e4930800000000000000
+      internalID: 4129398538128735083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 357
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe2937a7de7b0a0800000000000000
+      internalID: -6865757996722229424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 342
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f82726d17ed620800000000000000
+      internalID: 2800801182864963950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 342
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80410292ba1b940800000000000000
+      internalID: 5310213628766718205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26e349281194a580800000000000000
+      internalID: -8816762637527030227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Street Fighter 2010 - Cutscene Images_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed6aaaa765eac0f0800000000000000
+      internalID: -1095811325903606304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
